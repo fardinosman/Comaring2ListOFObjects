@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Comaring2ListOFObjects
 {
     class Program
-    {
+    {//
         static void Main(string[] args)
         {
         }
